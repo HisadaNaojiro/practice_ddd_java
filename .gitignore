@@ -1,0 +1,89 @@
+# For idea
+isolating-the-domain-sample/**/out
+isolating-the-domain-sample/.idea
+isolating-the-domain-sample/*.iml
+isolating-the-domain-sample/*.ipr
+isolating-the-domain-sample/*.iws
+
+# For eclipse
+isolating-the-domain-sample/.project
+isolating-the-domain-sample/.classpath
+isolating-the-domain-sample/.settings/
+isolating-the-domain-sample/bin/
+
+# For Gradle
+isolating-the-domain-sample/**/build
+isolating-the-domain-sample/build/**
+isolating-the-domain-sample/.gradle
+
+# For astah
+isolating-the-domain-sample/*.lock
+
+# For local
+isolating-the-domain-sample/temp
+
+# For mac
+isolating-the-domain-sample/.DS_Store
+
+# backup files
+isolating-the-domain-sample/*.un~
+
+
+# log files
+isolating-the-domain-sample/*.log
+
+# For Eclipse
+isolating-the-domain-sample/.classpath
+isolating-the-domain-sample/.project
+isolating-the-domain-sample/.settings
+
+# For Cypress
+isolating-the-domain-sample/cypress/videos
+isolating-the-domain-sample/cypress/screenshots
+
+isolating-the-domain-sample/node_modules/
+
+# For idea
+**/out
+.idea
+*.iml
+*.ipr
+*.iws
+
+# For eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# For Gradle
+**/build
+build/**
+.gradle
+
+# For astah
+*.lock
+
+# For local
+temp
+
+# For mac
+.DS_Store
+
+# backup files
+*.un~
+
+
+# log files
+*.log
+
+# For Eclipse
+.classpath
+.project
+.settings
+
+# For Cypress
+cypress/videos
+cypress/screenshots
+
+node_modules/
